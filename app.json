@@ -1,48 +1,4 @@
 {
-    "name": "Ajay Renamer Bot",
-    "description": "Telegram File Renamer Bot ",
-    "logo": "https://te.legra.ph/file/5e4b2b0618fc742cea93c.jpg",
-    "keywords": ["Ajay Renamer Bot", "Mongo DB"],    
-    "repository": "https://github.com/Ajaytrams/Ajay-Trams-Rename",
-    "env": {
-        "API_ID": {
-            "description": "Your APP ID From my.telegram.org ",
-            "value": ""
-        },
-        "API_HASH": {
-            "description": "Your API Hash From my.telegram.org ",
-            "value": ""
-        },
-        "FORCE_SUB": {
-            "description": "Your force sub channel user name without [@] ",
-            "value": "",
-            "required": false 
-        },
-        "BOT_TOKEN": {
-            "description": "Your Bot Token From @BotFather",
-            "value": ""
-        },
-        "ADMIN": {
-            "description":"Add Your User ID multiple is use space to split",
-            "value": ""
-        },
-        "DB_URL": {
-            "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": ""
-        },
-        "DB_NAME":{ 
-            "description":"Your Mongo DB Database Name ",
-            "value": "AjayTrams",
-            "required": false
-        },
-        "START_PIC": {
-            "description": "Your Bot start cmd Pic from @HK_telegraph_BOT",
-            "value": "",
-            "required": false
-        }
-    },
-    "buildpacks": [
-        {{
 
     "name": "LazyDeveloper Renamer Bot",
 
@@ -139,7 +95,29 @@
     ]
 
 }
-            "url": "heroku/python"
-        }
-    ]
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
