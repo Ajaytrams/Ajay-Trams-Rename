@@ -1,9 +1,9 @@
 {
-    "name": "LazyDeveloper Renamer Bot",
+    "name": "Ajay Renamer Bot",
     "description": "Telegram File Renamer Bot ",
-    "logo": "https://telegra.ph/file/e01b2016af8ab7b7616dc.png",
-    "keywords": ["LazyDeveloper Renamer Bot", "Mongo DB"],    
-    "repository": "https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT",
+    "logo": "https://te.legra.ph/file/5e4b2b0618fc742cea93c.jpg",
+    "keywords": ["Ajay Renamer Bot", "Mongo DB"],    
+    "repository": "https://github.com/Ajaytrams/Ajay-Trams-Rename",
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
@@ -32,7 +32,7 @@
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
-            "value": "LazyDeveloper",
+            "value": "AjayTrams",
             "required": false
         },
         "START_PIC": {
