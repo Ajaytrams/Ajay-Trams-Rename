@@ -73,9 +73,9 @@ Example:- /set_caption 📕 File Name: {filename}
 
 » 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://youtube.com/@Aj_creations_ajay>Watch Tutorial</a>
 
-• 😈 <a href=https://github.com/Ajaytrams>AjayDeveloper Github</a>
-• 😈 <a href=https://telegram.me/Aj_creations_ajay>AjayDeveloper Tg Channel</a>
+• 😈 <a href=https://github.com/Ajaytrams>Ajay Developer Github</a>
+• 😈 <a href=https://telegram.me/Aj_creations_ajay>Ajay Developer Tg Channel</a>
 • 😈 <a href=https://telegram.me/Ajaytrams>Direct-Msg-TG</a>
 • 😈 <a href=https://telegram.me/Aj_creations_ajay1>Join Movies Group</a>
-• 😈 <a href=https://telegram.me/Ajaytrams>Thanks- Ajay</a>
+• 😈 <a href=https://telegram.me/Ajaytrams>Thanks - Ajay</a>
 """
